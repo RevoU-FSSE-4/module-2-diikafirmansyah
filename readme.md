@@ -1,6 +1,6 @@
 # About alien
 
-# In 2040, Americans plan to vote in a U.S. presidential election.
+#           In 2040, Americans plan to vote in a U.S. presidential election.
             Japan promises to stop using nuclear power. Britain’s Prince George
             will turn the ripe age of 27. And, as the interactive above
             demonstrates, the world is likely to find alien life. It could
